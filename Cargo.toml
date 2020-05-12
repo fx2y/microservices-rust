@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "hyper-microservice",
+    "hyper-microservice-with-handlers",
+    "hyper-microservice-rest",
+    "hyper-microservice-rest-regex"
+]
